@@ -1,0 +1,41 @@
+commit 81f7a18114eedc27934759eacb6c4e16fa9fb6be
+Author: Flyakich <albertamirovapple@gmail.com>
+Date:   Wed Apr 2 19:10:51 2025 +0300
+
+    Изменённый комментарий
+
+commit 38c1d6bbb1a29667443a013c0bb1c688a6c83da4
+Author: Flyakich <albertamirovapple@gmail.com>
+Date:   Wed Apr 2 17:30:33 2025 +0300
+
+    Внёс пятую строку
+
+commit 57a512b02a0fd487dbdf1d57aebae38626a72eb3
+Author: Flyakich <albertamirovapple@gmail.com>
+Date:   Wed Apr 2 17:24:48 2025 +0300
+
+    Добавил вторую строчку по дз
+
+commit 1ac78370d23fdadd7cb2aeff97eadc401c0d9f38
+Author: Flyakich <albertamirovapple@gmail.com>
+Date:   Wed Apr 2 17:23:52 2025 +0300
+
+    Добавил первую строчку по дз
+
+commit f403542bdd213a1556a438cfa22057f2a32a05c2
+Author: Flyakich <albertamirovapple@gmail.com>
+Date:   Wed Apr 2 17:12:28 2025 +0300
+
+    Добавили подолнительную строку
+
+commit aa2b79ef128e6ed831f25db7aed08ce114d22bbf
+Author: Flyakich <albertamirovapple@gmail.com>
+Date:   Wed Apr 2 17:10:44 2025 +0300
+
+    Добавили строчку
+
+commit ae59d63b1bf1adba1f0217b9247b79033e2be0c6
+Author: Flyakich <albertamirovapple@gmail.com>
+Date:   Wed Apr 2 17:05:04 2025 +0300
+
+    Создали папку и добавили пустой файл
